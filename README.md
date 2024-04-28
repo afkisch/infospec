@@ -1,3 +1,7 @@
+### A feladat rövid bemutatása
+
+A feladat egy numizmatikai adatbázist és vásárteret valósít meg. A regisztrált felhasználók érméket vehetnek fel gyűjteményeikbe, a kollekció darabjait pedig akár eladásra is kínálhatják. A felhasználók jogosultsági körtől függően módosíthatják az adatbázis elemeit, illetve férhetnek hozzá a tárolt adatokhoz.
+
 ### Az adatbázis sémája
 
 ![](schema.png)
